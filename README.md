@@ -4,6 +4,11 @@
 
 ## 💻 Sobre o projeto
 Esse projeto foi criado com intuito de poder criar tarefas e ter controle das metas definidas no dia. Projeto já concluído e pronto para uso ou testes. O objetivo principal foi praticar os hooks no react, como o useState e o useEffect. Além disso, poder praticar mais o Typescript, buscando boas práticas e formas de melhorar a cada projeto.
+<br>
+<br>
+<a href="https://to-do-list-ig.netlify.app/">
+  <img alt="Link da página" src="https://img.shields.io/badge/Acessar%20Página%20-Site-%2304D361">
+</a>
 
 ## ⚙️ Funcionalidades
 
@@ -22,14 +27,6 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by tgmarinho" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
-## 🚀 Como acessar o projeto
-
-```bash
-
-# Apenas você precisa acessar nosso site
-
-
-```
 ## 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
